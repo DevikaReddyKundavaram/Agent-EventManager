@@ -1,20 +1,35 @@
-# AI Event Manager Agent
+# 🎉 AI Event Manager Agent 🤖
 
-This is an AI-powered event planning agent that helps generate fun and engaging Indian-style games for weddings, family gatherings, festivals, and corporate events. It automatically generates event plans, schedules, and allows PDF download of the plan.
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Status](https://img.shields.io/badge/Status-MVP-green)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
-## Features:
-- AI-based game suggestions based on occasion, genre, game type, age group, and difficulty
-- Fallback suggestions if no matching game found
-- Event schedule generation
-- Download event plan as a PDF
-- Dataset of 100+ Indian-style games
+## 📌 Project Overview
 
-## Future Updates:
-- Vendor integration
-- Custom gift suggestions
-- Enhanced AI model for creative game ideas
+AI Event Manager is an AI-powered planning assistant that generates Indian-style event game ideas, full event plans, and a downloadable PDF schedule. Perfect for family gatherings, weddings, festivals, and corporate events.
 
-## Run:
+✅ **Features:**
+- 🧠 AI-powered game suggestions based on:
+  - Occasion
+  - Genre
+  - Game Type
+  - Age Group
+  - Difficulty
+- 🎯 Fallback AI suggestions when no exact match
+- 📋 Auto event schedule planner
+- 🖨️ Download event plan as PDF
+- 🎲 Dataset of 100+ Indian event games with descriptions, age group, difficulty, and required items
+
+---
+
+## 🚀 Future Features (Coming Soon)
+- 🎁 Gift and prize suggestions
+- 🛍️ Vendor integration for props & gifts
+- 🌐 AI-generated fully customized event experiences
+
+---
+
+## 🛠 How to Run the Agent
 ```bash
 python aigame_agent.py
-
